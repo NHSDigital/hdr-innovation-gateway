@@ -1,0 +1,4 @@
+variables:
+  service_name: hdr-innovation-gateway
+  short_service_name: hig
+  service_base_path: hdr-innovation-gateway

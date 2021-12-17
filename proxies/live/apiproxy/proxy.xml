@@ -1,0 +1,4 @@
+<APIProxy name="hig">
+  <!-- This is the root of the application -->
+  <Description>"hdr-innovation-gateway"</Description>
+</APIProxy>
